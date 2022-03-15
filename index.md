@@ -92,3 +92,10 @@ This meme that I have created is an ironic meme comparing three different styles
 Learning reflection
 
 Something I am very curious about learning with data technologies is the origin of it all. I want to understand what created the code that I am typing this message on, and what created that code and so on and so forth until I get to the origin which I suspect might be binary? Even then I would like to understand what coding allows a computer to read that. In the end I guess I want to see what the origin of code is.
+
+# **A few extra laughs for ya troubles**
+### How it feels when multiple errors come up in your R code
+![](https://c.tenor.com/-wrmUJrUbeoAAAAC/emoji-disintergrating.gif)
+
+### How it feels when it finally comes together
+![BBL Drake](https://i.pinimg.com/474x/6a/fd/4a/6afd4af06854321192e957e895adad0f.jpg)
