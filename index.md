@@ -41,6 +41,9 @@ Meme
 
 image_write(Meme, "Stats_meme_new.png")
 ```
+## **Result**
+
+
 ## **Code for my gif**
 ```
 #Background image
