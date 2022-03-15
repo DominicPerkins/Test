@@ -1,16 +1,4 @@
-# This
-## Is
-### A test
-[CLICK ME!!!](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png)
+# Greetings world!
+This Github account and repository has been created for my STATS220 paper at the University of Auckland
 
-[No click me](https://www.youtube.com/watch?v=7nyvhxkTCnA&ab_channel=wejustnakibop)
-
-![](https://c.tenor.com/lN_9QGlFcaIAAAAM/johan-liebert-monster.gif)
-
-
-
-
-
-
-
-![](https://resizeimage.net/mypic/57lvwu2hJ39dgEWD/vcAB7/koenji-pfp.jpg)
+Here is the [website](https://dominicperkins.github.io/stats220/) where you can find the fruits of all my labour on the first assignment. We were tasked with the creation of both a meme and a gif as well as using of the fundamentals & Syntax of both R code and markdown 
