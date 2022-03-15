@@ -92,9 +92,8 @@ image_animate(fps = 100)
 This meme that I have created is an ironic meme comparing three different styles of learning, all of which become largely apparent during online school. The top panel suggests that people who actively stay on-top of their lectures and assignments are nerds (not me). The middle panel suggests that those who get overwhelmed and end up procrastinating heavily are [gigachads](https://knowyourmeme.com/memes/gigachad) (me) and the bottom panels suggest that those who just give up entirely are on a complete other level. It was heavily inspired by the ["Average Fan vs. Average Enjoyer"](https://knowyourmeme.com/memes/average-fan-vs-average-enjoyer) format. 
 
 
-Learning reflection
+# 5 Favourite colours
 
-Something I am very curious about learning with data technologies is the origin of it all. I want to understand what created the code that I am typing this message on, and what created that code and so on and so forth until I get to the origin which I suspect might be binary? Even then I would like to understand what coding allows a computer to read that. In the end I guess I want to see what the origin of code is.
 
 # **A few extra laughs for ya troubles**
 ### How it feels when multiple errors come up in your R code
