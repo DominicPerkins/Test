@@ -42,7 +42,7 @@ Meme
 image_write(Meme, "Stats_meme_new.png")
 ```
 ## **Result**
-
+![](Stats_meme_new.png)
 
 ## **Code for my gif**
 ```
