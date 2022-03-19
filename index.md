@@ -44,52 +44,6 @@ image_write(Meme, "Stats_meme_new.png")
 ## **Result**
 ![](Stats_meme_new.png)
 
-## **Code for my gif**
-```
-#Background image
-Bubble_image <- image_read("https://www.freepnglogos.com/uploads/bubbles/transparent-bubble-clip-art-creation-creatures-4.png") %>% image_scale(500)
-
-#first frame - "It's fun to stay at the..."
-frame1 <- Bubble_image %>%
-  image_annotate(text = "It's fun to \nstay at the...", color = "#000000", size = 75, gravity = "center") %>%
-  image_scale(100) %>%
-  image_extent("500x500")
-
-#second frame - "Y"
-frame2 <- Bubble_image %>%
-  image_annotate(text = "Y", color = "#000000", size = 300, gravity = "center") %>%
-  image_scale(200) %>%
-  image_extent("500x500")
-  
-#Third frame - "M"
-frame3 <- Bubble_image %>% 
-  image_annotate(text = "M", color = "#000000", size = 300, gravity = "center") %>%
-  image_scale(300) %>%
-  image_extent("500x500")
-
-#Fourth frame - "C"
-frame4 <- Bubble_image %>%
-  image_annotate(text = "C", color = "#000000", size = 300, gravity = "center") %>%
-  image_scale(400) %>%
-  image_extent("500x500")
-  
-#Fith frame - "A"
-frame5 <- Bubble_image %>%
-  image_annotate(text = "A", color = "#000000", size = 300, gravity = "center") %>%
-  image_scale(500) %>%
-  image_extent("500x500")
-
-#Village people image
-frame6 <- image_read("https://ichef.bbci.co.uk/news/976/cpsprodpb/48EF/production/_106217681_village_people_getty.jpg") %>% image_scale(500)
-
-#Using vector for gif creation
-frames <- c(frame1, frame2, frame3, frame4, frame5, frame6)
-
-#Pulling it all together
-image_morph(frames) %>%
-image_animate(fps = 100)
-```
-
 ### Meme information
 This meme that I have created is an ironic meme comparing three different styles of learning, all of which become largely apparent during online school. The top panel suggests that people who actively stay on-top of their lectures and assignments are nerds (not me). The middle panel suggests that those who get overwhelmed and end up procrastinating heavily are [gigachads](https://knowyourmeme.com/memes/gigachad) (me) and the bottom panels suggest that those who just give up entirely are on a complete other level. It was heavily inspired by the ["Average Fan vs. Average Enjoyer"](https://knowyourmeme.com/memes/average-fan-vs-average-enjoyer) format. 
 
